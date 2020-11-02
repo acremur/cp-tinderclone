@@ -1,0 +1,26 @@
+[
+    {
+        "_id": "5fa048d06041c128cc74496b",
+        "name": "Elon Musk",
+        "imgUrl": "https://cdn.autobild.es/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/07/elon-musk.jpg?itok=8tWjadE3",
+        "__v": 0
+    },
+    {
+        "_id": "5fa048d06041c128cc74496c",
+        "name": "Jeff Bezos",
+        "imgUrl": "https://assets.entrepreneur.com/content/3x2/2000/20180920163536-jeff-bezos.png",
+        "__v": 0
+    },
+    {
+        "_id": "5fa05aeb6041c128cc74496d",
+        "name": "Ellen DeGeneres",
+        "imgUrl": "http://healthyceleb.com/wp-content/uploads/2015/08/Ellen-DeGeneres-the-American-Comedian-TV-host-and-Writer.jpg",
+        "__v": 0
+    },
+    {
+        "_id": "5fa05aeb6041c128cc74496e",
+        "name": "Sandra Bullock",
+        "imgUrl": "https://www.shape.com/sites/shape.com/files/styles/slide/public/sandrabullock_1.jpg",
+        "__v": 0
+    }
+]
